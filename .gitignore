@@ -1,0 +1,7 @@
+settings.json
+.DS_Store
+
+node_modules
+config.push.json
+public/downloads/mac/*
+public/downloads/windows/*
